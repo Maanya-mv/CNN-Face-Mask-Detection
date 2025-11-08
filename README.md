@@ -15,7 +15,7 @@ The model uses a CNN architecture built using TensorFlow/Keras. The training dat
 
 ---
 
-## ✅ Features
+## Features
 
 * Trains a CNN model from scratch using a labeled dataset.
 * Preprocessing and data augmentation to improve accuracy.
@@ -25,7 +25,7 @@ The model uses a CNN architecture built using TensorFlow/Keras. The training dat
 
 ---
 
-## 🧠 Model Architecture (General Overview)
+## Model Architecture (General Overview)
 
 * Convolutional layers for feature extraction
 * MaxPooling for dimensionality reduction
@@ -34,7 +34,7 @@ The model uses a CNN architecture built using TensorFlow/Keras. The training dat
 
 ---
 
-## 🛠️ Tech Stack Used
+## Tech Stack Used
 
 | Component               | Technology               |
 | ----------------------- | ------------------------ |
@@ -46,7 +46,7 @@ The model uses a CNN architecture built using TensorFlow/Keras. The training dat
 
 ---
 
-## 🚀 Steps to Run
+## Steps to Run
 
 1. Clone the repository
 
@@ -72,7 +72,7 @@ The model uses a CNN architecture built using TensorFlow/Keras. The training dat
 
 ---
 
-## 📊 Results and Accuracy
+## Results and Accuracy
 
 | Metric              | Score                             |
 | ------------------- | --------------------------------- |
@@ -81,7 +81,7 @@ The model uses a CNN architecture built using TensorFlow/Keras. The training dat
 
 ---
 
-## 📌 Future Scope
+## Future Scope
 
 * Integration with CCTV feeds for live monitoring.
 * Deployment as a web application using Flask or FastAPI.
@@ -89,19 +89,18 @@ The model uses a CNN architecture built using TensorFlow/Keras. The training dat
 
 ---
 
-## 🤝 Contributions
+## Contributions
 
 Contributions are welcome! Feel free to fork this repository and submit a pull request.
 
 ---
 
-## 📄 License
+## License
 
 This project is released under the **MIT License**.
 
 ---
 
-If you want, I can also:
 
 * generate badges (like build passing, license, etc.)
 * write a short GitHub description
